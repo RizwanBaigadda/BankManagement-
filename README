@@ -1,0 +1,38 @@
+
+# 🏦 Bank Management System
+
+## 🔹 Description
+The **Bank Management System** is a **Java-based project** that simulates real-world banking operations.  
+It’s perfect for learning **core Java concepts**, **OOP principles**, and basic **database operations**.  
+
+With this system, users can:  
+- 📝 Create and manage bank accounts  
+- 💰 Deposit and withdraw money  
+- 🔄 Transfer funds between accounts  
+- 📜 View transaction history  
+- 🛠 Perform administrative tasks (if applicable)  
+
+---
+
+## 🛠 Tech Stack
+- **Language:** Java  
+- **Framework:** (Add Spring Boot / JDBC / etc. if used)  
+- **Database:** MySQL / H2 (choose whichever you used)  
+- **IDE:** IntelliJ IDEA / Eclipse  
+
+---
+
+## ✨ Features
+- **🧑‍💻 User Registration/Login** – Secure account creation and authentication  
+- **📂 Account Management** – View account details and balances  
+- **💵 Deposit & Withdrawal** – Perform basic banking operations  
+- **💸 Fund Transfer** – Transfer money safely between accounts  
+- **📊 Transaction History** – Track all user transactions  
+- **🔧 Admin Panel** – Manage users and view system summary (optional)
+
+---
+
+## 🚀 Setup & Installation
+1. **Clone the repository:**
+```bash
+git clone https://github.com/RizwanBaigadda/BankManagement.git
